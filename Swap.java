@@ -19,5 +19,3 @@ public class Swap {
 		System.out.println("After swapping: a= " + sn.a + ", b= " + sn.b);  
 	}  
 }  
-Footer
-© 2022 GitHub,
