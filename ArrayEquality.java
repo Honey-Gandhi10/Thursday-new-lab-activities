@@ -1,4 +1,4 @@
-package Prashijavapractice.java;
+package Honeyjavapractice.java;
 
 //a program to check array equality
 
@@ -16,5 +16,4 @@ public class ArrayEquality
         System. out. println(Arrays. equals(arr1, arr2));
     }
 }
-Footer
-© 2022 GitHub, I
+
