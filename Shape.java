@@ -70,4 +70,4 @@ class Square extends Rectangle{
 		System.out.println("width: "+super.width);
 	}
 }
-Footer
+
