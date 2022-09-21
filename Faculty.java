@@ -80,4 +80,4 @@ class Professor extends AssociateProfessor{
 	}
 	
 }
-Footer
+
