@@ -1,4 +1,4 @@
-package Prashijavapractice.java;
+package Honeyjavapractice.java;
 import java.util.Scanner;
 public class Rightangle_pattern_from_number {
 
@@ -20,4 +20,4 @@ public class Rightangle_pattern_from_number {
             }
         }
 }
-Footer
+
