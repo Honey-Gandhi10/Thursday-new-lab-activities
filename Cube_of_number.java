@@ -1,4 +1,4 @@
-package Prashijavapractice.java;
+package Honeyjavapractice.java;
 
 import java.util.Scanner;
 public class Cube_of_numbers {
@@ -18,5 +18,4 @@ public class Cube_of_numbers {
             }
         }
     }
-Footer
-© 2022 GitHub, I
+
