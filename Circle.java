@@ -26,5 +26,3 @@ void display() {
 	}
 
 }
-Footer
-© 2022 GitHub, I
