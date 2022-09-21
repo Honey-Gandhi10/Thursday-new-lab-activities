@@ -1,4 +1,4 @@
-package Prashijavapractice.java;
+package Honeyjavapractice.java;
 //a program to transpose matrix
 
 
@@ -43,4 +43,4 @@ public class Transpose
         }
     }
 }
-Footer
+
