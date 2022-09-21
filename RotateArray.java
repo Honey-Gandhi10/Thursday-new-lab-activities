@@ -1,4 +1,4 @@
-package Prashijavapractice.java;
+package Honeyjavapractice.java;
 
 //a program to rotate array
 
