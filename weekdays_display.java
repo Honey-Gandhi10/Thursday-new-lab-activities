@@ -1,4 +1,4 @@
-package Prashijavapractice.java;
+package Honeyjavapractice.java;
 import java.util.Scanner;
 public class weekdays_display {
 
